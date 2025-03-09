@@ -1,0 +1,8 @@
+Subscription Manager
+
+- List of Subscriptions, price, and it's payment due date
+- Payment check for this month
+- Monthly payment history
+
+UI: Streamlit
+Data: csv?
